@@ -2,7 +2,7 @@ AI ESCAPE ROOM – COMPLETE PROJECT
 
 Folders:
 - version_1/app.py: Version 1 Python application source extracted from the submitted Colab notebook.
-- version_2/app.py: Final Version 2 Python source with timer-expiration and game-action validation fixes.
+- - version_2/AI_Escape_Room_Version2_Validated.py: Final Version 2 Python source with timer-expiration and game-action validation fixes.
 - screenshots/: Screenshots supplied as evidence.
 - documentation/: Final report, architecture diagrams, and test_cases.md.
 
